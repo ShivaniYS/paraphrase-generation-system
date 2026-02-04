@@ -1,0 +1,13 @@
+torch>=2.0.0
+transformers>=4.35.0
+sentencepiece
+protobuf
+numpy
+nltk
+rouge-score
+bert-score
+openai  # for GPT baseline (optional)
+anthropic  # for Claude baseline (optional)
+tqdm
+flask  # for API
+pandas
