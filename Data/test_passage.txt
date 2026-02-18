@@ -1,0 +1,42 @@
+Summary
+Generative AI Engineer with expertise in developing production-ready LLM applications using LangChain, RAG architectures, and OpenAI/Llama
+models. Proven track record at Deloitte USI managing data analytics projects using Agile methodologies, achieving 15% workflow optimization.
+Skilled in autonomous AI agents, multi-agent systems, and conversational AI with cloud deployment on AWS and GCP. Strong foundation in Python,
+API development, Machine Learning, and NLP
+Skills
+● Generative AI & LLM: LangChain, LangGraph, OpenAI GPT, Llama Models, Hugging Face, RAG (Retrieval-Augmented Generation),
+Prompt Engineering, Multi-Agent Systems, Function Calling, Ollama, Groq API, Conversational AI,UI Path Automation,MCP
+● ML & AI: Natural Language Processing (NLP), Deep Learning, Machine Learning, NLTK, MLOps, LLMOps
+● Cloud & Deployment: AWS (BedRock), GCP, BigQuery, Streamlit Cloud, CI/CD, RESTful APIs
+● Programming: Python, JavaScript, React, Java, C++, SQL, MongoDB, Git, Postman
+● Fundamentals: Data Structures and Algorithms, Object-Oriented Programming, DBMS, Agile, Data Visualization (Tableau)
+Education
+National Institute of Technology Karnataka, Surathkal, NITK Dec 2020-May 2024
+Bachelor of Technology(B.Tech)
+Experience
+Deloitte USI-Analyst Bangalore, Karnataka July 2024-Present
+● Designed and developed LLM-powered GenAI applications using Python and LangChain, implementing Retrieval-Augmented
+Generation (RAG) pipelines with embeddings, semantic search, vector databases (FAISS, Pinecone) to enable intelligent querying
+over enterprise data sources.
+● Built multi-agent AI systems for automated bug triage, classification, and prioritization; applied prompt engineering, Model Context
+Protocol (MCP), and fine-tuning of transformer-based models using Hugging Face and OpenAI APIs to improve response accuracy,
+reduce hallucinations, and enhance domain-specific performance.
+● Integrated LLM workflows into production analytics pipelines, combining AI-driven insights, anomaly detection, and data analytics;
+collaborated in Agile/Scrum environments to deliver scalable GenAI solutions and executive-ready dashboards for enterprise
+stakeholders.
+Qapita-Internship Bangalore, Karnataka Mar 2023 - June 2023
+● Engineered a full-stack survey form application that automated Excel-to-web form conversion, enabling personalized data collection for
+1000+ clients and reducing manual form creation time by 80% .
+● Developed an ESOP Employee Stock Option Plan pool calculator with statistical analysis capabilities, implementing precise equity
+calculation algorithms adopted by 100+ companies
+● Designed and implemented RESTful APIs for data review and CSV download functionality, improving admin workflow efficiency.Applied
+JavaScript, React, and MongoDB to build responsive user interfaces and manage backend data operations
+1. Omni-Bot Multitasking AI Chatbot (Streamlit, LangChain)-Link
+● Designed and deployed a production-ready multi-agent LLM system integrating conversational Q&A, document retrieval (RAG), and
+multi-language code generation within a unified Streamlit interface.
+● Implemented LangChain memory management with custom state reset functionality and developer controls including temperature tuning,
+token limits for cost optimization, and conversation history management.Built DocuMind feature using Retrieval-Augmented Generation
+(RAG) for intelligent document querying with vector embeddings and semantic search.
+● Developed CodeCraft module providing specialized multi-language programming assistance with context-aware code generation -
+Achieved full-stack cloud deployment via Streamlit Cloud with API key management using Streamlit Secrets, demonstrating end-to-end
+MLOps capabilities

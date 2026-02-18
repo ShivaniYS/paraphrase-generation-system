@@ -11,3 +11,4 @@ anthropic  # for Claude baseline (optional)
 tqdm
 flask  # for API
 pandas
+python-dotenv
